@@ -21,18 +21,4 @@ public class ColliderDebug : MonoBehaviour
         Debug.Log("Trigger Exit");
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        Debug.Log("Collision Enter");
-    }
-
-    private void OnCollisionStay(Collision collisionInfo)
-    {
-        Debug.Log("Collision Stay");
-    }
-
-    private void OnCollisionExit(Collision other)
-    {
-        Debug.Log("Collision Exit");
-    }
 }

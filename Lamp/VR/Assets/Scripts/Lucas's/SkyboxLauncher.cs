@@ -87,6 +87,7 @@ public class SkyboxLauncher : MonoBehaviour
         _shootBullet = 0;
         var bullet = Instantiate(_bulletObject, _firePosition.position, Quaternion.identity).GetComponent<Rigidbody>();
         bullet.AddForce(_firePosition.forward*_bulletSpeed, ForceMode.Impulse);
+        
     }
 
     private void ResetTimer()

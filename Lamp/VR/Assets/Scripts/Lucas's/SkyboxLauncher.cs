@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class SkyboxLauncher : MonoBehaviour
@@ -12,11 +13,13 @@ public class SkyboxLauncher : MonoBehaviour
     [SerializeField] private float _Time;
     [SerializeField] private float _duration = 10f;
     [SerializeField] private bool _modelShowing = false;
+    [SerializeField] private TMP_Text _Timertext;
     // Start is called before the first frame update
 
     private void Start()
     {
         _Time = _duration;
+        
     }
 
     private void OnTriggerEnter(Collider other)
@@ -54,7 +57,13 @@ public class SkyboxLauncher : MonoBehaviour
             if (_Time > 0.9f)
             {
                 _Time = _Time - Time.deltaTime;
+                _Timertext.text = _Time.ToString("F1");
             }
+            else
+            {
+                _Timertext.text = "0";
+            }
+            
         }
         else
         {

@@ -7023,6 +7023,10 @@ MonoBehaviour:
   - {fileID: 299037659}
   - {fileID: 2096490005}
   - {fileID: 1376201881}
+  _Time: 10
+  _duration: 5
+  _modelShowing: 0
+  _Timertext: {fileID: 1581508188}
 --- !u!1 &1391264249
 GameObject:
   m_ObjectHideFlags: 0
@@ -13805,7 +13809,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6494186024563858499}
-  - component: {fileID: 5860356725791459066}
   m_Layer: 0
   m_Name: launcher
   m_TagString: Untagged
@@ -13813,20 +13816,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &5860356725791459066
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5860356725791459065}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 89ef88a6d78d54c40bbea7a8d14e7c41, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _model: {fileID: 0}
-  _meshRenderers: []
 --- !u!1 &6232745470178263708
 GameObject:
   m_ObjectHideFlags: 0

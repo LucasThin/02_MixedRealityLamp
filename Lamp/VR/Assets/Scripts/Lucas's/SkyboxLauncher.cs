@@ -58,7 +58,7 @@ public class SkyboxLauncher : MonoBehaviour
     {
         if (_modelShowing)
         {
-            Debug.Log(_Time);
+            //Debug.Log(_Time);
             if (_Time > 0.9f)
             {
                 _Time = _Time - Time.deltaTime;

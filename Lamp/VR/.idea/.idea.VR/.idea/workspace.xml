@@ -8,6 +8,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/ChangeSkybox.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/EnableModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/SkyboxLauncher.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -69,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664329618342</updated>
       <workItem from="1664329624701" duration="361000" />
-      <workItem from="1664329999581" duration="7197000" />
+      <workItem from="1664329999581" duration="8249000" />
     </task>
     <servers />
   </component>

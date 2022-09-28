@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/EnableModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/SkyboxLauncher.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664329618342</updated>
       <workItem from="1664329624701" duration="361000" />
-      <workItem from="1664329999581" duration="1987000" />
+      <workItem from="1664329999581" duration="4079000" />
     </task>
     <servers />
   </component>

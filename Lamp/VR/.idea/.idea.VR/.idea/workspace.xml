@@ -3,9 +3,202 @@
   <component name="ChangeListManager">
     <list default="true" id="62a20290-2e38-4796-acdb-d2fc3afa9906" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.VR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Materials/Main PolyPack.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Materials/Main PolyPack.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Materials/Main.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Materials/Main.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/ComPlaneV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/ComPlaneV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/ComPlaneV2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/ComPlaneV2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/ComPlaneV3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/ComPlaneV3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/EaglePlane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/EaglePlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/LightPlane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/LightPlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/ComPlaneV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/ComPlaneV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/ComPlaneV2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/ComPlaneV2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/ComPlaneV3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/ComPlaneV3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/EaglePlane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/EaglePlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/HelicopterV1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/HelicopterV1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/HelicopterV2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/HelicopterV2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/LightPlane.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Models/Version 1.2/LightPlane.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/ComPlaneV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/ComPlaneV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/ComPlaneV2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/ComPlaneV2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/ComPlaneV3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/ComPlaneV3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/EaglePlane.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/EaglePlane.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/LightPlane.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/LightPlane.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/ComPlaneV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/ComPlaneV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/ComPlaneV2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/ComPlaneV2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/ComPlaneV3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/ComPlaneV3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/EaglePlane.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/EaglePlane.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/HelicopterV1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/HelicopterV1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/HelicopterV2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/HelicopterV2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/LightPlane.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Prefabs/Version 1.2/LightPlane.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Scene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Scene/Showcase.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Scene/Showcase.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Texture.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Texture/PolyPackPlanes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Texture/PolyPackPlanes.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Texture/Texture8x8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Alstra Infinite/Planes LowPoly/Texture/Texture8x8.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lucas.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lucas.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Lucas's/Obstacles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Lucas's/Obstacles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_01.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_01.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_02.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_02.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_03.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_03.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_04.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_04.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_05.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_05.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_06.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_06.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_07.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_07.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_08.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_08.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_09.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_09.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_10.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_10.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_11.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_11.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_12.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_12.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_13.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_13.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_14.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_14.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_15.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Ultra SF Game Audio Ambience Pack v.1/AMB_SCI-FI_LOOP_15.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleMaterials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleMaterials/shot_mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleMaterials/shot_mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleMaterials/smoke_mat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleMaterials/smoke_mat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Cannon.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Cannon.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Smoke.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/Smoke.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/shot_prefab.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExamplePrefabs/shot_prefab.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/CannonBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/CannonBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/CreateSinShapedLineStrip.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/CreateSinShapedLineStrip.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/ShotBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/ShotBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/VolumetricMultiLineBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleScripts/VolumetricMultiLineBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTerrain.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTerrain/ExampleLaserCannonTerrain.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTerrain/ExampleLaserCannonTerrain.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTextures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTextures/Steam_A_from_Unity_sample_project_AngryBots.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTextures/Steam_A_from_Unity_sample_project_AngryBots.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTextures/gui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/ExampleTextures/gui.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LaserCannon.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LaserCannon.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LaserCannonSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LaserCannonSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LineGenerationScripts.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LineGenerationScripts.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LineGenerationScriptsSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/LineGenerationScriptsSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/StaticLines.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/StaticLines.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/StaticLinesSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/ExampleScenes/StaticLinesSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/LineStrip-LightSaber.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/LineStrip-LightSaber.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/LineStrip-TextureAdditive.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/LineStrip-TextureAdditive.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/LineStrip-TextureAlphaBlended.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/LineStrip-TextureAlphaBlended.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-LightSaber.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-LightSaber.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-TextureAdditive.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-TextureAdditive.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-TextureAlphaBlended.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Materials/SingleLine-TextureAlphaBlended.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-LightSaber.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-LightSaber.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-TextureAdditive.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-TextureAdditive.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-TextureAlphaBlended.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/LineStrip-TextureAlphaBlended.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/SingleLine-LightSaber.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/SingleLine-LightSaber.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/SingleLine-TextureAdditive.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/SingleLine-TextureAdditive.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/SingleLine-TextureAlphaBlended.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Prefabs/SingleLine-TextureAlphaBlended.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-LightSaber.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-LightSaber.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-TextureAdditive.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-TextureAdditive.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-TextureAlphaBlended.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/LineStrip-TextureAlphaBlended.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-LightSaber.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-LightSaber.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-TextureAdditive.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-TextureAdditive.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-TextureAlphaBlended.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/SingleLine-TextureAlphaBlended.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/_LineStripShader.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/_LineStripShader.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/_SingleLineShader.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/BuiltInRenderPipeline/Shaders/_SingleLineShader.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts/VolumetricLineBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts/VolumetricLineBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts/VolumetricLineStripBehavior.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts/VolumetricLineStripBehavior.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts/VolumetricLineVertexData.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Scripts/VolumetricLineVertexData.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Volumetric Lines Documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/VolumetricLines/Volumetric Lines Documentation.pdf.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +269,7 @@
       <workItem from="1664352196181" duration="2146000" />
       <workItem from="1664423381256" duration="394000" />
       <workItem from="1664448845146" duration="941000" />
-      <workItem from="1664476756095" duration="4141000" />
+      <workItem from="1664476756095" duration="4489000" />
     </task>
     <servers />
   </component>

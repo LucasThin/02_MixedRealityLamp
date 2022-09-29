@@ -23,12 +23,13 @@ public class SkyboxLauncher : MonoBehaviour
     private void Start()
     {
         _Time = _duration;
+        _model.SetActive(false);
         
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        //FireBullet();
+        if (!other.gameObject.CompareTag("Launcher")) return;
         _model.SetActive(true);
         //Debug.Log(other.gameObject.name);
 

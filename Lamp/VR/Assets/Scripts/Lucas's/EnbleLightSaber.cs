@@ -6,29 +6,48 @@ using UnityEngine;
 public class EnbleLightSaber : MonoBehaviour
 {
     [SerializeField] private GameObject _model;
+    
+    [SerializeField] private GameObject _hammerTop;
+    [SerializeField] private GameObject _hammerBottom;
 
     [SerializeField] private List<MeshRenderer> _meshRenderers = new List<MeshRenderer>();
     // Start is called before the first frame update
-    private void OnTriggerEnter(Collider other)
+    void Start()
     {
-        _model.SetActive(true);
-        Debug.Log(other.gameObject.name);
-
-        for (int i = 0; i < _meshRenderers.Count; i++)
+        _model.SetActive(false);
+    }
+    private void OnTriggerStay(Collider other)
+    {
+        
+        if (other.gameObject.CompareTag("LightSaber"))
         {
-            _meshRenderers[i].enabled = false;
-        }
+            Debug.Log(other.gameObject.name);
+            _model.SetActive(true);
+           // 
+
+            for (int i = 0; i < _meshRenderers.Count; i++)
+            {
+                _meshRenderers[i].enabled = false;
+            }
+        } 
+        
+        
 
 
     }
 
     private void OnTriggerExit(Collider other)
     {
-        _model.SetActive(false);
-        
-        for (int i = 0; i < _meshRenderers.Count; i++)
+        if (other.gameObject.CompareTag("LightSaber"))
         {
-            _meshRenderers[i].enabled = true;
+            _model.SetActive(false);
+            // Debug.Log(other.gameObject.name);
+
+            for (int i = 0; i < _meshRenderers.Count; i++)
+            {
+                _meshRenderers[i].enabled = true;
+            }
         }
+        
     }
 }

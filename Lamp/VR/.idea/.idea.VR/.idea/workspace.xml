@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a20290-2e38-4796-acdb-d2fc3afa9906" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VR/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Blue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Blue.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/FloorMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/FloorMat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lucas.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lucas.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Lucas's/EnableHammer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Lucas's/EnableHammer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Lucas's/EnbleLightSaber.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Lucas's/EnbleLightSaber.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Lucas's/SkyboxLauncher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Lucas's/SkyboxLauncher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +81,7 @@
       <workItem from="1664352196181" duration="2146000" />
       <workItem from="1664423381256" duration="394000" />
       <workItem from="1664448845146" duration="941000" />
+      <workItem from="1664476756095" duration="2988000" />
     </task>
     <servers />
   </component>

@@ -7,11 +7,10 @@ public class Obstacles : MonoBehaviour
     // Start is called before the first frame update
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Obstacles"))
         {
             Debug.Log("Saber hit");
-            if (this.gameObject == null) return;
-            Destroy(this.gameObject);
+            Destroy(other.gameObject);
         }
     }
 }

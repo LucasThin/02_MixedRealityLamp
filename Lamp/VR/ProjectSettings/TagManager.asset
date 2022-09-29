@@ -6,6 +6,7 @@ TagManager:
   tags:
   - LightSaber
   - Launcher
+  - Obstacles
   layers:
   - Default
   - TransparentFX

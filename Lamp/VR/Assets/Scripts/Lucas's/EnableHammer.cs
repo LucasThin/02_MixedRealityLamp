@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnableModel : MonoBehaviour
+public class EnableHammer : MonoBehaviour
 {
    // [SerializeField] private GameObject _model1;
     [SerializeField] private List<GameObject> _models = new List<GameObject>();

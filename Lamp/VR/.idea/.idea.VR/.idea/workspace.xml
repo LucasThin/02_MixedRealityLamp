@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62a20290-2e38-4796-acdb-d2fc3afa9906" name="Changes" comment="" />
+    <list default="true" id="62a20290-2e38-4796-acdb-d2fc3afa9906" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Isabel - LightSaber.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Isabel - LightSaber.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Lucas.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Lucas.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/EnableModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/SkyboxLauncher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lucas's/ChangeSkybox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.interaction.toolkit@2.0.2/Runtime/Locomotion/Continuous/ActionBasedContinuousMoveProvider.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -69,6 +74,7 @@
       <workItem from="1664329999581" duration="10273000" />
       <workItem from="1664352196181" duration="2146000" />
       <workItem from="1664423381256" duration="394000" />
+      <workItem from="1664448845146" duration="392000" />
     </task>
     <servers />
   </component>
